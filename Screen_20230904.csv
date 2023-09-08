@@ -1,6 +1,4 @@
-tokens;tickers;Total tests;Ecart BB 4d;Position % BB 4d;Position % BB 4h;Position % BB 30m;Tests MM 4d;Tests MM 4h;Tests MM 30m;"Combo
-RSI";"Tests
-RSI";Surventes RSI 4d;Surachats RSI 4d;Tests CCI;Test CHOP;chop 4d;chop 4h;chop 30m;Charged chop 4d;Charged chop 4h;Charged chop 30m;notation vol;var vol 1 jour;var vol 7 jours;var vol 14 jours
+tokens;tickers;Total tests;Ecart BB 4d;Position % BB 4d;Position % BB 4h;Position % BB 30m;Tests MM 4d;Tests MM 4h;Tests MM 30m;"Combo RSI";"Tests RSI";Surventes RSI 4d;Surachats RSI 4d;Tests CCI;Test CHOP;chop 4d;chop 4h;chop 30m;Charged chop 4d;Charged chop 4h;Charged chop 30m;notation vol;var vol 1 jour;var vol 7 jours;var vol 14 jours
 lockchain;loc;#N/A;178%;28%;36%;#N/A;1;100;#N/A;#N/A;#N/A;2;-65;#N/A;#N/A;28;46;#N/A;36;48;#N/A;#N/A;#N/A;#N/A;#N/A
 vulcan-forged;pyr;14;26%;107%;101%;101%;11;111;111;;10;3;373;0;0;46;6;37;64;75;68;4;1%;50%;768%
 amber;amb;14;51%;74%;77%;87%;1;111;111;;11;11;72;0;2;57;70;54;49;56;61;1;-5%;2%;-25%
