@@ -1,12 +1,4 @@
-tokens;tickers;"Total
-tests";"Ecart BB 
-4d";Position % BB 4d;Position % BB 4h;Position % BB 30m;"Tests 
-MM 4d";"Tests 
-MM 4h";Tests MM 30m;"Combo
-RSI";"Tests
-RSI";Surventes RSI 4d;Surachats RSI 4d;"Tests
-CCI";"Test
-CHOP";chop 4d;chop 4h;chop 30m;Charged chop 4d;Charged chop 4h;Charged chop 30m;notation;var 1 jour;var 7 jours;var 14 jours
+tokens;tickers;Total_tests;Ecart_BB4d;Position_BB_4d;Position_BB_4h;Position_BB_30m;Tests_MM_4d;Tests_MM_4h;Tests_MM_30m;Combo_RSI;Tests_RSI;Surventes_RSI_4d;Surachats_RSI_4d;Tests_CCI;Test_CHOP;chop_4d;chop_4h;chop_30m;Charged_chop_4d;Charged_chop_4h;Charged_chop_30m;notation;var_1_jour;var_7_jours;var_14_jours
 wemix-token;wemix;16;182%;108%;77%;60%;11;111;111;;10;10;213;0;2;7;64;68;74;62;54;1;0%;20%;25%
 euler;eul;15;22%;83%;93%;100%;111;111;111;;11;7;124;0;1;67;48;29;55;67;70;2;-11%;12%;12%
 streamr;data;15;29%;81%;87%;90%;1;111;111;;10;13;70;0;3;59;63;68;54;57;56;0;-11%;-5%;0%
