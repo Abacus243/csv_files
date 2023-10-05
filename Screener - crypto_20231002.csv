@@ -1,5 +1,5 @@
 tokens;tickers;Total_tests;Ecart_BB4d;Position_BB_4d;Position_BB_4h;Position_BB_30m;Tests_MM_4d;Tests_MM_4h;Tests_MM_30m;Combo_RSI;Tests_RSI;Surventes_RSI_4d;Surachats_RSI_4d;Tests_CCI;Test_CHOP;chop_4d;chop_4h;chop_30m;Charged_chop_4d;Charged_chop_4h;Charged_chop_30m;notation;var_1_jour;var_7_jours;var_14_jours
-wemix-token;wemix;16;1.82;1.08;0.77;0.60;11;111;111;;10;10;213;0;2;7;64;68;74;62;54;1;0%;20%;25%
+wemix-token;wemix;16;182;108;77;60;11;111;111;;10;10;213;0;2;7;64;68;74;62;54;1;0%;20%;25%
 euler;eul;15;22%;83%;93%;100%;111;111;111;;11;7;124;0;1;67;48;29;55;67;70;2;-11%;12%;12%
 streamr;data;15;29%;81%;87%;90%;1;111;111;;10;13;70;0;3;59;63;68;54;57;56;0;-11%;-5%;0%
 nakamoto-games;naka;14;120%;110%;93%;74%;111;111;110;vente;10;45;249;0;0;20;13;36;79;80;60;3;0%;4%;4%
