@@ -1,0 +1,12 @@
+[DEFAULT]
+interv_d = 604800
+interv_h = 43200
+interv_m = 14400
+fctnmt = cloud
+
+[UPDATES]
+last_update_d = 2023-10-24 15:18:15.934823
+last_update_h = 2023-10-28 00:46:31.920522
+last_update_m = 2023-10-28 12:28:19.241402
+last_update_v = 2023-10-27 13:03:21.837908
+
