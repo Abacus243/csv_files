@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [DEFAULT]
 interv_d = 604800
 interv_h = 43200
@@ -10,3 +11,17 @@ last_update_h = 2023-10-31 07:57:48.840351
 last_update_m = 2023-10-31 05:11:20.948823
 last_update_v = 2023-10-30 20:12:00.342645
 
+=======
+[DEFAULT]
+interv_d = 604800
+interv_h = 43200
+interv_m = 14400
+fctnmt = cloud
+
+[UPDATES]
+last_update_d = 2023-10-24 15:18:15.934823
+last_update_h = 2023-10-27 13:47:32.940081
+last_update_m = 2023-10-27 13:47:32.940081
+last_update_v = 2023-10-27 13:47:32.955714
+
+>>>>>>> 5bd37a76816f06f98c890f0136159a14595637aa
